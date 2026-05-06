@@ -51,7 +51,7 @@ OOP, DSA, MVC Architecture, Design Patterns, Database Design, Authentication, AP
 
 ---
 
-## 🤖 MindMate – AI Student Assistant
+##  MindMate – AI Student Assistant
 
 **.NET Core MVC | AI APIs | LLMs**
 
