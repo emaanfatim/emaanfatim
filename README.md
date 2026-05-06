@@ -61,7 +61,7 @@ OOP, DSA, MVC Architecture, Design Patterns, Database Design, Authentication, AP
 
 ---
 
-# 📊 What I'm Currently Learning
+#  What I'm Currently Learning
 
 * Advanced backend system design
 * Scalable API development
@@ -70,11 +70,11 @@ OOP, DSA, MVC Architecture, Design Patterns, Database Design, Authentication, AP
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
-* 📧 Email: [emaan.mursleen@gmail.com](mailto:emaan.mursleen@gmail.com)
-* 🔗 LinkedIn: linkedin.com/in/your-profile
-* 💻 GitHub: [https://github.com/emaanfatim](https://github.com/emaanfatim)
+*  Email: [emaan.mursleen@gmail.com](mailto:emaan.mursleen@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/emaan-fatima-792958287 
+*  GitHub: [https://github.com/emaanfatim](https://github.com/emaanfatim)
 
 ---
 
